@@ -12,7 +12,7 @@ I am a Data Scientist with a strong interdisciplinary background in Neuroscience
 
 
 <p align="left">
-<a href="https://linkedin.com/in/ela bilgin (khodaei)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ela bilgin (khodaei)" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ela bilgin (khodaei)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ela-bilgin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
