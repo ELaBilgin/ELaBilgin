@@ -4,7 +4,7 @@
 
 
 
-I am a Data Scientist with a strong interdisciplinary background in Neuroscience and Architecture, skilled in Python, SQL, Azure, and AWS.
+I am a Data Scientist with a strong interdisciplinary background in Neuroscience and Architecture.
 
 
 
