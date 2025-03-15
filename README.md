@@ -1,3 +1,4 @@
+<h3 align="left">About Me:</h3>
 I am a Data Scientist with a strong interdisciplinary background in Neuroscience and Architecture, skilled in Python, SQL, Azure, and AWS.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elabilgin&label=Profile%20views&color=0e75b6&style=flat" alt="elabilgin" /> </p>
 
