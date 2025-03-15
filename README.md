@@ -7,13 +7,7 @@
 I am a Data Scientist with a strong interdisciplinary background in Neuroscience and Architecture, skilled in Python, SQL, Azure, and AWS.
 
 
-<h3 align="left">Reach out to me:</h3>
 
-
-
-<p align="left">
-<a href="https://linkedin.com/in/ela bilgin (khodaei)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ela-bilgin" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
